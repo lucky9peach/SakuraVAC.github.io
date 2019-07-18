@@ -63,13 +63,13 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: apple-touch-icon-precomposed
   - key: href
-    value: /public/image/name.jpg
+    value: //s.gravatar.com/avatar/0ea091cf328e145a2ce1f8453c12c2b6?s=360
 - tag: link # 小图标，同上
   var:
   - key: rel
     value: 'shortcut icon'
   - key: href
-    value: /public/image/name.jpg
+    value: //s.gravatar.com/avatar/0ea091cf328e145a2ce1f8453c12c2b6?s=80
 - tag: link # 下面是博客的css，有些插件的css是单独在插件里引用的，假如需要自己的css可以仿照去加在后面
   var:
   - key: rel
@@ -152,9 +152,9 @@ baidu-push: true
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
+    img: //s.gravatar.com/avatar/0ea091cf328e145a2ce1f8453c12c2b6?s=80 # 头像的地址
     info: <br>考雅思ING<br>喜欢紫色<br>ACMer<br>喜欢哈士奇<br>混乱中立 # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=33035611&auto=1&height=66"></iframe>'
   social:
   - title: rss # rss
     href: /atom.xml
