@@ -2,7 +2,7 @@
 layout: page
 title: 二日酔い　アタマ痛ーいです。
 showtag:
-- 雅思
+- 分类
 ---
 ## 近期
 
