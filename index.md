@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 二日酔い　アタマ痛ーいです。
 showtag:
 - ICPC模板
 ---
