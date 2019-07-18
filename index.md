@@ -2,7 +2,7 @@
 layout: page
 title: 二日酔い　アタマ痛ーいです。
 showtag:
-- ICPC模板
+- 雅思
 ---
 ## 近期
 
