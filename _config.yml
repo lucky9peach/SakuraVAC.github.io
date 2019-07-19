@@ -111,6 +111,7 @@ script: # 需要在正文前调用的脚本
 - src: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
 - src: //cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js # live2d
 - src: //zz.bdstatic.com/linksubmit/push.js # 百度推送
+- src: /public/simple-jekyll-search/click.js # 鼠标点击小红心
 
 mermaid: # https://github.com/knsv/mermaid
   enable: true
