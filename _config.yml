@@ -137,7 +137,7 @@ sidebar:
     enable: true
     img: //s.gravatar.com/avatar/0ea091cf328e145a2ce1f8453c12c2b6?s=80 # 头像的地址
     info: <br>考雅思ING<br>喜欢紫色<br>ACMer<br>喜欢哈士奇<br>混乱中立 # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=33035611&auto=1&height=66"></iframe>'
+  description: '<embed src="//music.163.com/style/swf/widget.swf?sid=18095043&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>'
   social:
   - title: rss # rss
     href: /atom.xml
